@@ -6,4 +6,6 @@ x = 10
 print('understood some of it')
 #Msake soem changes
 y=20
-#just Writing something
+#Just writting something to experiment
+x=[1,2,3,4,5]
+type(x)
