@@ -12,6 +12,6 @@ y = 20
 #just Writing something
 # time is 21:48
 x=48
-
+x+y= 68
 
 
