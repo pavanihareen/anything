@@ -14,3 +14,5 @@ y = 20
 x=48
 #stay safe 
 X+y =68
+# time is 10.01
+c = 30
